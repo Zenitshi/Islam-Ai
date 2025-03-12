@@ -1,0 +1,7 @@
+{
+  "api_keys": {
+    "gemini": "AIzaSyBz4AQv_k9sw9BdSGHHxEbn8ZvXjoJpMnE",
+    "deepseek": ""
+  },
+  "active_model": "gemini-pro"
+}
